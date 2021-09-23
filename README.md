@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+**Add SKIP_PREFLIGHT_CHECK=true in .env** 
+
+### run`npm i`
+
+Downloads node modules and adds package-lock.json in the repository. 
+
 ### `npm start`
 
 Runs the app in the development mode.\
